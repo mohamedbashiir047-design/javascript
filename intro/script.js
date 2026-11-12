@@ -1,0 +1,5 @@
+console.log("hello world")
+console.log("kafi")
+console.log("hello football")
+console.log("hello president")
+console.log("hello")
